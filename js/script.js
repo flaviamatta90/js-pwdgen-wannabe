@@ -8,4 +8,4 @@ var cognome = prompt("Qual è il tuo cognome?")
 var colore = prompt("Qual è il tuo colore preferito?")
 
 // stampa sulla pagina nomecognomecolorepreferito19
-document.getElementById('nomecognomecolore').innerHTML='nome' + 'cognome' + 'colore' + '19';
+document.getElementById('nomecognomecolore').innerHTML=nome + cognome + colore + '19';
